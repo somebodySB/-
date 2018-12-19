@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/2/9 22:08:59。
+     1>项目“E:\编程源文件\win32\PixelArt\PixelArt\PixelArt.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\PixelArt.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt PixelArt.cpp
+         PixelArt.cpp
+     1>e:\编程源文件\win32\pixelart\pixelart\pixelart.cpp(154): warning C4101: “hdc”: 未引用的局部变量
+     1>e:\编程源文件\win32\pixelart\pixelart\pixelart.cpp(155): warning C4101: “pt”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\编程源文件\win32\PixelArt\Debug\PixelArt.exe" /INCREMENTAL /NOLOGO d3dx9.lib d3dx9d.lib dinput8.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\编程源文件\win32\PixelArt\Debug\PixelArt.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\编程源文件\win32\PixelArt\Debug\PixelArt.lib" /MACHINE:X86 Debug\PixelArt.res
+         Debug\DateSL.obj
+         Debug\PixelArt.obj
+         Debug\stdafx.obj
+         PixelArt.vcxproj -> E:\编程源文件\win32\PixelArt\Debug\PixelArt.exe
+     1>已完成生成项目“E:\编程源文件\win32\PixelArt\PixelArt\PixelArt.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:05.11
